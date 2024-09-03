@@ -1,2 +1,2 @@
 # Recipe-App
-This is my first recipe-app
+This is my first web-app
